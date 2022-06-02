@@ -1,0 +1,15 @@
+h1{font-family:sans-serif,helvetica;
+    background-color: blue; 
+    color: darkgoldenrod;
+    font-weight: 900;
+    text-align: center;
+    }
+
+p{font-weight: bold;
+    background-color:red ;
+    text-align: end;
+    }
+.the{font-size: 22px ;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
