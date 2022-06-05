@@ -1,0 +1,19 @@
+img{height:auto ;width: 350;
+
+}
+p{background-color: dimgrey;
+font-weight: unset;
+font-family: "times new roman";
+}
+ol{font-size: 55px;
+background-color: red;
+font-weight: bolder;
+
+}
+ul{font-size:22px ;
+font-weight: lighter;
+background-color: blue;
+}
+h1{font-family: "times new roman";
+font-weight: 200;
+}
