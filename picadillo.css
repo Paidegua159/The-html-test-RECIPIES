@@ -1,6 +1,21 @@
 img {height:500 ;width:auto;
     
     }
-h2 {font-size: 30px ;background-color: aquamarine;font-weight:bold;text-align: center; 
+h2 {background-color: aquamarine;
+    font-weight:bold;
+    text-align: center; 
 
+    }
+h2,p {font-size: 30px;
+
+    }
+p   {background-color:red ;
+    text-align: center;
+    font-family:"times new roman"; 
+
+    }
+ul{font-size: 20px;
+    background-color: black;
+    color:white;
+    
     }
