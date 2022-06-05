@@ -1,0 +1,13 @@
+*{background-color: aquamarine; }
+h1,ol,ul,p{font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: crimson;
+
+}
+ul,ol{text-align: center;
+
+}
+ul{font-size: 25px;
+
+}
+ol{font-size: 15px;}
